@@ -22,8 +22,8 @@ The following well curves are present:
 - DHRO 
 - SGR
 - GR **Always present**
-- RMED (Micro Res)
-- RMIC
+- RMED (Med Res)
+- RMIC (Mic Res)
 - NPHI
 - PEF
 - RSHA (Shallow Res)
@@ -34,6 +34,9 @@ The following well curves are present:
 - DTS
 - DCAL
 - MUDWEIGHT
+- X_LOC
+- Y_LOC
+- Z_LOC (TVDSS)
 
 Additional Curves:
 - FORCE_2020_LITHOFACIES_CONFIDENCE (1: high, 2: medium, 3: low)
